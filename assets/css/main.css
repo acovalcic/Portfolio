@@ -14,10 +14,6 @@
 	flex-shrink: 0 !important;
 }
 
-/* .col{
-	white-space: nowrap;
-} */
-
 .col li{
 	font-size: 15pt;
 }
